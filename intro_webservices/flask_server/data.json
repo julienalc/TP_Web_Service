@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "info": {
+            "firstname": "Jean",
+            "lastname": "De Jaeger",
+            "address": {
+                "street": "3804 Quiet Valley Lane",
+                "city": "North Hollywood",
+                "zipcode": "91601"
+            },
+            "age": 31
+        },
+        "job": "Software Developer"
+    },
+    {
+        "id": 1,
+        "info": {
+            "firstname": "Jenny",
+            "lastname": "Nazareno",
+            "address": {
+                "street": "1236 Single Street",
+                "city": "North Hollywood",
+                "zipcode": "91601"
+            },
+            "age": 30
+        },
+        "job": "Data Analyst"
+    },
+    {
+        "id": 1,
+        "info": {
+            "firstname": "Barney",
+            "lastname": "Stinson",
+            "address": {
+                "street": "4058 Sugar Camp Road",
+                "city": "North Hollywood",
+                "zipcode": "91601"
+            },
+            "age": 35
+        },
+        "job": "International Businessman"
+    }
+]
